@@ -1,0 +1,8 @@
+.vscode
+.seed-data
+node_modules
+.env
+types.ts
+lib
+.gitignore
+.keystone
