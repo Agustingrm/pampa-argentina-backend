@@ -32,7 +32,7 @@ export const Product = list({
         { label: "Available", value: "AVAILABLE" },
         { label: "Unavailable", value: "UNAVAILABLE" },
       ],
-      defaultValue: "DRAFT",
+      defaultValue: "AVAILABLE",
       ui: {
         displayMode: "segmented-control",
         createView: { fieldMode: "hidden" },
